@@ -1,0 +1,6 @@
+- pnpm
+- Vite
+- TypeScript
+- p5.js
+- ESLint
+- Prettier

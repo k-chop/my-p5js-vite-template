@@ -9,16 +9,17 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "@types/p5": "^1.7.4",
-    "@typescript-eslint/eslint-plugin": "6.13.2",
-    "@typescript-eslint/parser": "6.13.2",
-    "eslint": "8.55.0",
+    "@types/p5": "1.7.6",
+    "@typescript-eslint/eslint-plugin": "7.9.0",
+    "@typescript-eslint/parser": "7.9.0",
+    "eslint": "8.57.0",
     "eslint-config-prettier": "9.1.0",
-    "prettier": "3.1.0",
-    "typescript": "5.3.3",
-    "vite": "5.0.7"
+    "prettier": "3.2.5",
+    "typescript": "5.4.5",
+    "vite": "5.2.11"
   },
   "dependencies": {
-    "p5": "^1.9.0"
-  }
+    "p5": "1.9.3"
+  },
+  "packageManager": "pnpm@9.1.1+sha512.14e915759c11f77eac07faba4d019c193ec8637229e62ec99eefb7cf3c3b75c64447882b7c485142451ee3a6b408059cdfb7b7fa0341b975f12d0f7629c71195"
 }
